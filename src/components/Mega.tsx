@@ -33,7 +33,7 @@ export default function Mega() {
       title: "How to Prepare for the AI Revolution",
       description: "In this blog post, we will discuss how to prepare for the AI revolution. We will explore the skills that will be in demand in the future, and how to develop those skills.",
       date: "2025-01-03",
-      imageUrl: "../images/slide4.JPG",
+      imageUrl: "../images/slide4.jpg",
     },
     {
       id: "5",
