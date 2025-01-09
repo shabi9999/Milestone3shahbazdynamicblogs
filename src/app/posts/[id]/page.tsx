@@ -7,11 +7,8 @@ import { useParams } from "next/navigation";
 
 // Define the PageProps interface correctly
 interface PageProps {
-  params: {
-    id: string;
-  };
-}
-
+    params: Promise<{ id: string; }>; // Change params type to Promise<{ id: string; }>
+  }
 const posts = [
   {
     id: "1",
