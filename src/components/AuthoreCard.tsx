@@ -6,7 +6,7 @@ export default function AuthoreCard() {
       <div className="flex items-center animation-fadeIn ">
         <img
           className="w-16 h-16 rounded-full mr-4 object-cover border-2 border-red-500"
-          src="../images/shabi.JPG"
+          src="../images/shabi.jpg"
           alt=" Author Image"
         />
 
